@@ -1,0 +1,11 @@
+# .NET build output
+bin/
+obj/
+
+# Visual Studio local settings
+.vs/
+*.user
+*.suo
+
+# Local SQL Server database files
+database/data/
